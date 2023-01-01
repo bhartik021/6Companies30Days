@@ -11,19 +11,6 @@ For complete details about the Challenge , go through the official doc and video
 <b>Video with complete Challenge details:- </b> <a href="https://linktw.in/tYRJcv"><strong>Explore the Video »</strong></a><br/>
 <hr/>
 
-## Structure :
-```
-root
-|
-|
-|____Company-1-[Microsoft]
-     |____#ReviseWithArsh_#6Companies30Days_Challenge_2023
-     |____README.md
-|____README.md
-```
-
-<hr/>
-
 ## Benefits (For the ones who complete the Challenge) :
 * Top `90-100` most frequently asked and most important questions by most big tech companies will be done.
 * The ones who complete this challenge will be given referrals for top tech companies and startups.
