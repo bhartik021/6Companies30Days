@@ -22,6 +22,8 @@ root
 |____README.md
 ```
 
+<hr/>
+
 ## Benefits (For the ones who complete the Challenge) :
 * Top `90-100` most frequently asked and most important questions by most big tech companies will be done.
 * The ones who complete this challenge will be given referrals for top tech companies and startups.
