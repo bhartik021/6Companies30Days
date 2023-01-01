@@ -15,3 +15,7 @@
 - [Seat Arrangement in a SpiceJet Problem - Online OA February ‘22](https://leetcode.com/problems/airplane-seat-assignment-probability/)
 - [Deletions to make an array divisible.](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/)
 - [Substrings containing all three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
+
+| S. No. | Problem | Problem Link | Status |
+| ------ |:---:| --- | --- |
+| 1 | You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation. | [Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | ✅ |
