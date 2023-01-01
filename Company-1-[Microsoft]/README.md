@@ -1,4 +1,4 @@
-# MicroSoft
+# Microsoft
 
 | S. No. | Problem | Problem Link | Status |
 | ------ |:---:| --- | --- |
