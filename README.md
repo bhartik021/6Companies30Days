@@ -11,7 +11,7 @@ For complete details about the Challenge , go through the official doc and video
 <b>Video with complete Challenge details:- </b> <a href="https://linktw.in/tYRJcv"><strong>Explore the Video »</strong></a><br/>
 <hr/>
 
-## Project Structure :
+## Structure :
 ```
 root
 |
