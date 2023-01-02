@@ -8,8 +8,8 @@ A Challenge by `Arsh Goyal` to start with the goals today and to prepare for DSA
 --->
 For complete details about the Challenge , go through the official doc and video: 
 
-* <b>Document with complete Challenge details:- </b><a href="https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing"><strong>Explore the docs »</strong></a><br/>
-* <b>Video with complete Challenge details:- </b> <a href="https://linktw.in/tYRJcv"><strong>Explore the Video »</strong></a><br/>
+* <a href="https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing"><strong>Explore the docs »</strong></a><br/>
+* <a href="https://linktw.in/tYRJcv"><strong>Explore the Video »</strong></a><br/>
 <hr/>
 
 ## Benefits (For the ones who complete the Challenge) :
