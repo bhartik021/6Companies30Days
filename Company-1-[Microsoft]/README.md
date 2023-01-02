@@ -3,9 +3,9 @@
 | Serial No. | Problem | Problem Link | Status |
 | ---------- |:-------:| ------------ | ------ |
 | 1 | You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation. | [Problem Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | ✅ |
-| 2 | Combination Sum with a twist. | [Problem Link](https://leetcode.com/problems/combination-sum-iii/) | ✅  |
-| 3 | Bulls and Cows | [Problem Link](https://leetcode.com/problems/bulls-and-cows/) | ✅  |
-| 4 | You are given an integer array nums of length n. Return maximum length of Rotation Function. | [Problem Link](https://leetcode.com/problems/rotate-function/) |   |
+| 2 | Combination Sum with a twist. | [Problem Link](https://leetcode.com/problems/combination-sum-iii/) | ✅ |
+| 3 | Bulls and Cows | [Problem Link](https://leetcode.com/problems/bulls-and-cows/) | ✅ |
+| 4 | You are given an integer array nums of length n. Return maximum length of Rotation Function. | [Problem Link](https://leetcode.com/problems/rotate-function/) | ✅   |
 | 5 | Largest Divisible Subset. | [Problem Link](https://leetcode.com/problems/largest-divisible-subset/) |   |
 | 6 | How to find a perfect Rectangle. | [Problem Link](https://leetcode.com/problems/perfect-rectangle/) |   |
 | 7 | Scheduling a Course | [Problem Link](https://leetcode.com/problems/course-schedule/) |   |
