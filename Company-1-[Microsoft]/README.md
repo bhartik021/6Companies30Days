@@ -8,7 +8,7 @@
 | 4 | You are given an integer array nums of length n. Return maximum length of Rotation Function. | [Problem Link](https://leetcode.com/problems/rotate-function/) | ✅   |
 | 5 | Largest Divisible Subset. | [Problem Link](https://leetcode.com/problems/largest-divisible-subset/) |   |
 | 6 | How to find a perfect Rectangle. | [Problem Link](https://leetcode.com/problems/perfect-rectangle/) |   |
-| 7 | Scheduling a Course | [Problem Link](https://leetcode.com/problems/course-schedule/) |   |
+| 7 | Scheduling a Course | [Problem Link](https://leetcode.com/problems/course-schedule/) | ✅ |
 | 8 | Profitable Path in a Tree. | [Problem Link](https://leetcode.com/problems/most-profitable-path-in-a-tree/) |   |
 | 9 | Number of Pairs satisfying Inequality. | [Problem Link](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) |   |
 | 10 | Shortest Unsorted continuous Subarray | [Problem Link](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) |   |
