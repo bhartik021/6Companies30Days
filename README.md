@@ -17,4 +17,5 @@ For complete details about the Challenge, go through the official doc and video:
 | S.No | Company | Questions Link | Date | Status |
 | ---- | ------- | -------------- | ---- | ------ |
 | 1    | Microsoft | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 1 Jan - 5 Jan | Running | 
+| 1    | Goldman Sachs | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 6 Jan - 10 Jan | Running | 
 
