@@ -18,6 +18,7 @@ For complete details about the Challenge, go through the official doc and video:
 | ---- | ------- | -------------- | ---- | ------ |
 | 1    | Microsoft | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 1 Jan - 5 Jan | Completed | 
 | 2    | Goldman Sachs | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 6 Jan - 10 Jan | Completed | 
-| 3    | Adobe | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 11 Jan - 15 Jan | Running | 
+| 3    | Adobe | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 11 Jan - 15 Jan | Completed | 
 | 4    | Flipkart | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 16 Jan - 20 Jan | Running | 
+| 4    | Google | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 21 Jan - 25 Jan | Running | 
 
