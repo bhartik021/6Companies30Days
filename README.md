@@ -20,6 +20,6 @@ For complete details about the Challenge, go through the official doc and video:
 | 2    | Goldman Sachs | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 6 Jan - 10 Jan | Completed | 
 | 3    | Adobe | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 11 Jan - 15 Jan | Completed | 
 | 4    | Flipkart | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 16 Jan - 20 Jan | Completed | 
-| 5    | Google | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 21 Jan - 25 Jan | Running | 
+| 5    | Google | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 21 Jan - 25 Jan | Completed | 
 | 6    | Amazon | https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit?usp=sharing | 26 Jan - 30 Jan | Running | 
 
